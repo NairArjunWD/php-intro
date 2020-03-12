@@ -9,6 +9,8 @@
 <body>
     <?php
         echo "<h1>Practice H1</h1>";
+        echo "<hr>";
+        echo "<p>Practice paragraph with line break above</p>";
     ?>
 </body>
 </html>
