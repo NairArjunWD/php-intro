@@ -8,9 +8,9 @@
 </head>
 <body>
     <?php
-        echo "<h1>Practice H1</h1>";
+        echo "<h1>Practice Makes Perfect</h1>";
         echo "<hr>";
-        echo "<p>Practice paragraph with line break above</p>";
+        echo "<p>Practice paragraph with line break above. This is to show how php with html works.</p>";
     ?>
 </body>
 </html>
