@@ -9,10 +9,12 @@
     <body>
 
         <?php 
-            echo "Over 1500 years ago <br>";
-            echo "Rome fell <br>";
-            echo "Over 1500 years later <br>";
-            echo "Rome is begining to reawaken <br>";
+            $name = "Rome";
+            $yearsAgo = 1500;
+            echo "Over $yearsAgo years ago <br>";
+            echo "$name fell <br>";
+            echo "Over $yearsAgo years later <br>";
+            echo "$name is begining to reawaken <br>";
         ?>
         
     </body>
