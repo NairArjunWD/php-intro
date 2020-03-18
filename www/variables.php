@@ -14,7 +14,7 @@
             echo "Over $yearsAgo years ago <br>";
             echo "$name fell <br>";
             echo "Over $yearsAgo years later <br>";
-            echo "$name is begining to reawaken <br>";
+            echo "$name is reawakening <br>";
         ?>
         
     </body>
